@@ -1,0 +1,10 @@
+C:\Users\jmunnik\Desktop\Lets Go\Bicycle\Bicycle\bin\Debug\Bicycle.exe.config
+C:\Users\jmunnik\Desktop\Lets Go\Bicycle\Bicycle\bin\Debug\Bicycle.exe
+C:\Users\jmunnik\Desktop\Lets Go\Bicycle\Bicycle\bin\Debug\Bicycle.pdb
+C:\Users\jmunnik\Desktop\Lets Go\Bicycle\Bicycle\obj\Debug\Bicycle.csprojAssemblyReference.cache
+C:\Users\jmunnik\Desktop\Lets Go\Bicycle\Bicycle\obj\Debug\Bicycle.Form1.resources
+C:\Users\jmunnik\Desktop\Lets Go\Bicycle\Bicycle\obj\Debug\Bicycle.Properties.Resources.resources
+C:\Users\jmunnik\Desktop\Lets Go\Bicycle\Bicycle\obj\Debug\Bicycle.csproj.GenerateResource.cache
+C:\Users\jmunnik\Desktop\Lets Go\Bicycle\Bicycle\obj\Debug\Bicycle.csproj.CoreCompileInputs.cache
+C:\Users\jmunnik\Desktop\Lets Go\Bicycle\Bicycle\obj\Debug\Bicycle.exe
+C:\Users\jmunnik\Desktop\Lets Go\Bicycle\Bicycle\obj\Debug\Bicycle.pdb
